@@ -1,0 +1,11 @@
+D:\C#_Tryouts\TestTask\TestTaskLibrary\bin\Debug\net8.0\TestTaskLibrary.deps.json
+D:\C#_Tryouts\TestTask\TestTaskLibrary\bin\Debug\net8.0\TestTaskLibrary.dll
+D:\C#_Tryouts\TestTask\TestTaskLibrary\bin\Debug\net8.0\TestTaskLibrary.pdb
+D:\C#_Tryouts\TestTask\TestTaskLibrary\obj\Debug\net8.0\TestTaskLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Tryouts\TestTask\TestTaskLibrary\obj\Debug\net8.0\TestTaskLibrary.AssemblyInfoInputs.cache
+D:\C#_Tryouts\TestTask\TestTaskLibrary\obj\Debug\net8.0\TestTaskLibrary.AssemblyInfo.cs
+D:\C#_Tryouts\TestTask\TestTaskLibrary\obj\Debug\net8.0\TestTaskLibrary.csproj.CoreCompileInputs.cache
+D:\C#_Tryouts\TestTask\TestTaskLibrary\obj\Debug\net8.0\TestTaskLibrary.dll
+D:\C#_Tryouts\TestTask\TestTaskLibrary\obj\Debug\net8.0\refint\TestTaskLibrary.dll
+D:\C#_Tryouts\TestTask\TestTaskLibrary\obj\Debug\net8.0\TestTaskLibrary.pdb
+D:\C#_Tryouts\TestTask\TestTaskLibrary\obj\Debug\net8.0\ref\TestTaskLibrary.dll
